@@ -2,7 +2,6 @@
 - 👀 I’m interested in computer vision and deep learning
 - 🌱 I’m currently learning path planning
 - 💞️ I’m working for iFLYTEK as an algorithm engineer.
-- 💞️ I’m looking to collaborate on Ph.D. program, can someone recruit me as a PhD student?
 - 📫 My email address is 2574299063@qq.com.
 
 <!---
